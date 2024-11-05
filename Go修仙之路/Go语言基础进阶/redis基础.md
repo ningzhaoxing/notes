@@ -86,3 +86,26 @@
 | ZCARD key                          | 获取有序集合中的成员数                |
 | ZRANK key menber                   | 返回有序集合中指定成员索引              |
 
+# go操作redis
+
+## redis 连接池
+
+初始化连接池，流程如下:
+1. 实现初始化一定数量的连接，放入连接池
+2. 当go需要操作redis时，直接从redis连接池中取出连接即可
+3. 这样可以节省临时获取redis连接的时间，提高效率
+
+核心代码:
+```go
+var pool *redis.Pool
+pool = &redis.Pool{
+	Maxldle:8,  // 最大空闲连接数
+	MaxActive:0,  // 表示和数据库的最大连接数,0表示无限制
+	IdleTimeout:100,  // 最大空闲时间
+	Dial:func() (redis.Conn, error) {  // 初始化连接池代码
+		retuen redis.Dial("tcp", "localhost:6379")
+	},
+}
+c := pool.Get()
+pool.Close() //关闭连接池，一旦关闭，则不能从连接池中取出连接
+```
