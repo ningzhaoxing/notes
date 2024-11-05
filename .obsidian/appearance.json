@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "monospaceFontFamily": "Monaco,Cascadia Code",
+  "textFontFamily": "DejaVu Sans Mono",
+  "baseFontSizeAction": true,
+  "cssTheme": "Shimmering Focus",
+  "accentColor": "#5c75f5",
+  "baseFontSize": 17
+}
