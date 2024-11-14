@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "35f64e190c0d94d4",
+        "id": "043c608a140b862c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b4bc2b5f77e61f4",
+            "id": "b03e2f0ae81c0fab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go修仙之路/Go语言基础进阶/redis基础.md",
+                "file": "Go修仙之路/Go语言基础进阶/websocket心跳检测.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "redis基础"
-            }
-          },
-          {
-            "id": "ccd42608da6f9c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "专业课/计算机网络/数据链路层.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数据链路层"
+              "title": "websocket心跳检测"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/计算机网络/数据链路层.md"
+                "file": "Go修仙之路/Go语言基础进阶/websocket心跳检测.md"
               },
               "icon": "lucide-list",
-              "title": "数据链路层 的大纲"
+              "title": "websocket心跳检测 的大纲"
             }
           },
           {
@@ -175,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,49 +176,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ccd42608da6f9c8c",
+  "active": "b03e2f0ae81c0fab",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-05 15.30.26.excalidraw.md",
+    "未命名.md",
+    "Go修仙之路/Go语言基础进阶/websocket心跳检测.md",
+    "il.md",
+    "Go修仙之路/Go语言基础进阶/Channel.md",
+    "Go修仙之路/Go语言基础进阶/网络编程.md",
+    "Go修仙之路/Go语言基础进阶/单元测试.md",
+    "Go修仙之路/Go语言基础进阶/并发goroutine.md",
+    "Go修仙之路/Go语言基础进阶/互斥锁.md",
+    "Go修仙之路/Go语言基础进阶/context包.md",
     "专业课/计算机网络/数据链路层.md",
+    "专业课/计算机网络/photo/Pasted image 20241112214729.png",
+    "专业课/计算机网络/photo/Pasted image 20241112211214.png",
+    "专业课/计算机网络/photo/Pasted image 20241112210856.png",
+    "专业课/计算机网络/网络层.md",
+    "算法修仙之路/思维/题目总结/平衡排序.md",
+    "算法修仙之路/思维/题目总结/相等字符串.md",
+    "算法修仙之路/思维/题目总结/photo/Pasted image 20241112203531.png",
+    "算法修仙之路/思维/题目总结/photo",
+    "任务阶段/2024.11 - 2025.1.md",
+    "算法修仙之路/比赛总结/4.25-4.30vp总结.md",
+    "算法修仙之路/比赛总结",
+    "算法修仙之路/板子总结/数据结构.md",
+    "算法修仙之路/板子总结/输出输出Java.md",
+    "算法修仙之路/板子总结/数论.md",
+    "算法修仙之路/板子总结/基础算法.md",
+    "算法修仙之路/板子总结/图论.md",
+    "算法修仙之路/板子总结",
+    "算法修仙之路/数学/数论/赛后总结/牛客周赛Round51-高精度求GCD.md",
+    "算法修仙之路/数学/数论/赛后总结/牛客周赛Round41-高精度判断4的倍数(倍数).md",
+    "算法修仙之路/数学/概率论/数学期望.md",
+    "算法修仙之路/数学/数论/赛后总结",
+    "算法修仙之路/数学/线性代数/凸包.md",
+    "算法修仙之路/数学/概率论/2024郑州CCPC邀请赛-随即栈.md",
+    "算法修仙之路/数学/数论/数论.md",
+    "算法修仙之路/数学/线性代数",
+    "算法修仙之路/数学/概率论",
+    "算法修仙之路/数学/数论",
+    "算法修仙之路/数学/博弈论",
+    "算法修仙之路/数学",
+    "算法修仙之路/思维/题目总结",
+    "Go修仙之路/Go语言基础进阶/photo/Pasted image 20241106082612.png",
     "专业课/计算机网络/photo/Pasted image 20241105215813.png",
     "专业课/计算机网络/photo/Pasted image 20241105214755.png",
     "专业课/计算机网络/photo/Pasted image 20241105214702.png",
     "专业课/计算机网络/photo/Pasted image 20241105214411.png",
-    "668448c4c36ba521e5af311f18bd2a8.jpg",
-    "Pasted image 20241103090606.png",
-    "Pasted image 20241105213850.png",
-    "Pasted image 20241103090610.png",
-    "Pasted image 20241103090227.png",
-    "专业课/计算机网络/photo",
-    "Go修仙之路/Go语言基础进阶/redis基础.md",
-    "任务阶段/2024.11 - 2025.1.md",
-    "Go修仙之路/Go语言基础进阶/并发goroutine.md",
-    "专业课/计算机网络",
-    "专业课/未命名.md",
-    "Excalidraw",
-    "任务阶段",
-    "新建文件夹",
-    "2024-11-05.md",
-    "Go修仙之路/Go语言基础进阶/反射.md",
-    "Go修仙之路/Go语言基础进阶/单元测试.md",
-    "Go修仙之路/Go语言基础进阶/包的使用.md",
-    "Go修仙之路/Go语言基础进阶/互斥锁.md",
-    "专业课/微机接口/第三章 - inter 8086or8088指令系统.md",
-    "专业课/微机接口/第二章 - 微处理器.md",
-    "Go修仙之路/Go语言基础进阶/Channel.md",
-    "Go修仙之路/Go语言基础进阶/go-mod.md",
-    "Go修仙之路/Go语言基础进阶/文件操作.md",
-    "读书/王阳明心学/心态.md",
-    "读书/王阳明心学",
-    "读书",
-    "Go修仙之路",
-    "Go语言基础进阶/反射.md",
-    "Go语言基础进阶/互斥锁.md",
-    "Go语言基础进阶/Channel.md",
-    "Go语言基础进阶/文件操作.md",
-    "Go语言基础进阶/并发goroutine.md",
-    "Go语言基础进阶/单元测试.md",
-    "().md",
-    "Go修仙之路/Go基础笔记/Go.md"
+    "668448c4c36ba521e5af311f18bd2a8.jpg"
   ]
 }
