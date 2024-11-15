@@ -3,7 +3,7 @@
   "monospaceFontFamily": "Monaco,Cascadia Code",
   "textFontFamily": "DejaVu Sans Mono",
   "baseFontSizeAction": true,
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "Dracula Official",
   "accentColor": "#5c75f5",
-  "baseFontSize": 19
+  "baseFontSize": 17
 }
