@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go修仙之路/GoWeb 开发/网络编程(http)/了解web及网络基础.md",
+                "file": "Go修仙之路/GoWeb 开发/网络编程(http)/HTTP状态码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "了解web及网络基础"
+              "title": "HTTP状态码"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go修仙之路/GoWeb 开发/网络编程(http)/了解web及网络基础.md"
+                "file": "Go修仙之路/GoWeb 开发/网络编程(http)/HTTP状态码.md"
               },
               "icon": "lucide-list",
-              "title": "了解web及网络基础 的大纲"
+              "title": "HTTP状态码 的大纲"
             }
           },
           {
@@ -178,19 +178,25 @@
   },
   "active": "b03e2f0ae81c0fab",
   "lastOpenFiles": [
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241115180245.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241115174033.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241115173259 1.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241115173259.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241115172912.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241115171418.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241115164324.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241115163438.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116151125.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116151016.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116150812.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116150605.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116150254.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116150128.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116145218.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116145216.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116144720.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116112813.png",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116112048.png",
+    "读书/王阳明心学/怎样才能有效控制他人.md",
+    "读书/王阳明心学/谋略的最高境界.md",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/HTTP状态码.md",
+    "Go修仙之路/GoWeb 开发/网络编程(http)/了解web及网络基础.md",
     "Go修仙之路/GoWeb 开发/网络编程(http)/photo",
     "Go修仙之路/Go语言基础进阶/context包.md",
     "Go修仙之路/Go语言基础进阶/网络编程.md",
     "Go修仙之路/Go语言基础进阶/未命名思维导图.md",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/了解web及网络基础.md",
     "Go修仙之路/Go基础笔记/Go.md",
     "任务阶段/2024.11 - 2025.1.md",
     "Go修仙之路/GoWeb 开发/网络编程(http)",
@@ -210,14 +216,8 @@
     "未命名.md",
     "il.md",
     "专业课/计算机网络/数据链路层.md",
-    "专业课/计算机网络/photo/Pasted image 20241112214729.png",
-    "专业课/计算机网络/photo/Pasted image 20241112211214.png",
-    "专业课/计算机网络/photo/Pasted image 20241112210856.png",
     "专业课/计算机网络/网络层.md",
-    "算法修仙之路/思维/题目总结/平衡排序.md",
-    "算法修仙之路/思维/题目总结/相等字符串.md",
     "算法修仙之路/思维/题目总结/photo",
-    "算法修仙之路/比赛总结/4.25-4.30vp总结.md",
     "算法修仙之路/比赛总结",
     "算法修仙之路/板子总结",
     "算法修仙之路/数学/数论/赛后总结",
