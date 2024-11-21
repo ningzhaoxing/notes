@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go修仙之路/GoWeb 开发/网络编程(http)/HTTP状态码.md",
+                "file": "Go修仙之路/GoWeb 开发/网络编程/goweb/Cookie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP状态码"
+              "title": "Cookie"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go修仙之路/GoWeb 开发/网络编程(http)/HTTP状态码.md"
+                "file": "Go修仙之路/GoWeb 开发/网络编程/goweb/Cookie.md"
               },
               "icon": "lucide-list",
-              "title": "HTTP状态码 的大纲"
+              "title": "Cookie 的大纲"
             }
           },
           {
@@ -178,51 +178,51 @@
   },
   "active": "b03e2f0ae81c0fab",
   "lastOpenFiles": [
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116151125.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116151016.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116150812.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116150605.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116150254.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116150128.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116145218.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116145216.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116144720.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116112813.png",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo/Pasted image 20241116112048.png",
+    "Go修仙之路/GoWeb 开发/数据库/CRUD.md",
+    "Go修仙之路/GoWeb 开发/网络编程/goweb/Cookie.md",
+    "Go修仙之路/GoWeb 开发/网络编程/go实现Socket连接.md",
+    "读书/小米创业思考/奇迹时代/梦想落地.md",
+    "任务阶段/2024.11 - 2025.1.md",
+    "读书/小米创业思考/奇迹时代",
+    "读书/小米创业思考/未命名.md",
+    "读书/小米创业思考",
+    "Go修仙之路/GoWeb 开发/网络编程/goweb/模板与静态资源.md",
+    "Go修仙之路/GoWeb 开发/网络编程/goweb/获取请求头和请求参数.md",
+    "Go修仙之路/GoWeb 开发/网络编程/goweb/控制器.md",
+    "Go修仙之路/GoWeb 开发/网络编程/goweb",
+    "Go修仙之路/GoWeb 开发/数据库/mysql的连接.md",
+    "Go修仙之路/GoWeb 开发/网络编程",
+    "Go修仙之路/GoWeb 开发/未命名.md",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/get和post的区别.md",
+    "Go修仙之路/GoWeb 开发/数据库",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/HTTP状态码.md",
+    "算法修仙之路/板子总结/基础算法.md",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116151125.png",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116151016.png",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116150812.png",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116150605.png",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116150254.png",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116150128.png",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116145218.png",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116145216.png",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116144720.png",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo/Pasted image 20241116112813.png",
     "读书/王阳明心学/怎样才能有效控制他人.md",
     "读书/王阳明心学/谋略的最高境界.md",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/HTTP状态码.md",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/了解web及网络基础.md",
-    "Go修仙之路/GoWeb 开发/网络编程(http)/photo",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/了解web及网络基础.md",
+    "Go修仙之路/GoWeb 开发/网络协议(http)/photo",
     "Go修仙之路/Go语言基础进阶/context包.md",
     "Go修仙之路/Go语言基础进阶/网络编程.md",
     "Go修仙之路/Go语言基础进阶/未命名思维导图.md",
     "Go修仙之路/Go基础笔记/Go.md",
-    "任务阶段/2024.11 - 2025.1.md",
-    "Go修仙之路/GoWeb 开发/网络编程(http)",
+    "Go修仙之路/GoWeb 开发/网络协议(http)",
     "Go修仙之路/GoWeb 开发/网络编程(http).md",
     "Go修仙之路/Go语言基础进阶/并发goroutine.md",
     "Go修仙之路/Go语言基础进阶/包的使用.md",
     "Go修仙之路/Go语言基础进阶/单元测试.md",
     "Go修仙之路/Go语言基础进阶/反射.md",
-    "Go修仙之路/Go语言基础进阶/互斥锁.md",
-    "Go修仙之路/Go语言基础进阶/协程+通道综合应用.md",
-    "Go修仙之路/Go语言基础进阶/Channel.md",
-    "Go修仙之路/Go语言基础进阶/redis基础.md",
-    "Go修仙之路/Go语言基础进阶/websocket心跳检测.md",
     "Go修仙之路/GoWeb 开发",
-    "Go修仙之路/未命名.md",
-    "Go修仙之路/GoWeb 开发.md",
-    "未命名.md",
-    "il.md",
-    "专业课/计算机网络/数据链路层.md",
-    "专业课/计算机网络/网络层.md",
     "算法修仙之路/思维/题目总结/photo",
-    "算法修仙之路/比赛总结",
-    "算法修仙之路/板子总结",
-    "算法修仙之路/数学/数论/赛后总结",
-    "算法修仙之路/数学/线性代数",
-    "算法修仙之路/数学/概率论",
-    "算法修仙之路/数学/数论"
+    "算法修仙之路/比赛总结"
   ]
 }
